@@ -6,6 +6,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # Bind Pie Chart to Pivot Grid and colorize series according to argument values
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e2720/)**
+<!-- run online end -->
 
 
 <p>This example demonstrate how to use <a href="http://documentation.devexpress.com/#XtraCharts/DevExpressXtraChartsChartControl_CustomDrawSeriesPointtopic">ChartControl.CustomDrawSeriesPoint</a> event to set specific series colors.</p>
